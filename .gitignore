@@ -4,3 +4,6 @@ dist
 stats.json
 
 
+# Ignore replit config files
+.replit
+replit.nix
